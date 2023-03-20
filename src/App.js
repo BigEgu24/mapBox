@@ -1,4 +1,3 @@
-import "./app.css";
 import ReactMapGL, { Layer, Marker, Popup } from "react-map-gl";
 import { useState } from "react";
 import { Room } from "@material-ui/icons";
